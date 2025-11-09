@@ -1,4 +1,4 @@
-# DSA5208 Project 2: Weather Data Analysis and Temperature Prediction
+# DSA5208 Project 2: Weather Data Analysis and Temperature Prediction with Spark
 
 ## Overview
 
