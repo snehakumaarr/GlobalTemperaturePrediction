@@ -1,5 +1,10 @@
 # DSA5208 Project 2: Weather Data Analysis and Temperature Prediction with Spark
 
+## Contributors
+1. Sneha Kumar
+2. Ryan Lee Ting Zhern
+3. Mok Bingwei Maurice
+
 ## Overview
 
 This project analyzes NOAA Global Hourly weather data for 2024 to predict temperature (TMP_VALUE) using various meteorological features. The analysis includes data preprocessing, correlation studies, and building multiple regression models to forecast temperature based on factors like wind, visibility, ceiling height, dew point, and sea-level pressure.
